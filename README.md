@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as <strong> Senior Machine Learning Developer </strong> 
 - 💬 Ask me about <strong>R, Python and Data Science & Machine Learning </strong>
 - 🌱 I’m currently learning <strong> Quantitative Finance with Machine Learning and AI </strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/m-piotr" target="_blank">LinkedIn</a> | <a href="https://discord.gg/NMNb2KZN" target="_blank">Discord</a> | <a href="https://join.skype.com/invite/j0uGSpPtx7De" target="_blank">Skype</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/m-piotr" target="_blank">LinkedIn</a> | <a href="https://discord.gg/mws7CyVk" target="_blank">Discord</a> | <a href="https://join.skype.com/invite/j0uGSpPtx7De" target="_blank">Skype</a>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=NsvCeoTrader&show_icons=true" alt="NsvCeoTrader">
